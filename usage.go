@@ -2,7 +2,7 @@ package Hurricane
 
 import (
 	"fmt"
-	"github.com/feralthedogg/hurricane"
+	"github.com/Feralthedogg/hurricane"
 	"math"
 )
 

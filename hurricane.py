@@ -28,6 +28,6 @@ ax.scatter(x_vals, y_vals, z_vals, color='blue', linewidth=1)
 ax.set_xlabel("X (cos 0)")
 ax.set_ylabel("Y (sin 0)")
 ax.set_zlabel("Z (Height)")
-ax.set_title("3D Spiral (Hurricane Stricture)")
+ax.set_title("3D Spiral (Hurricane Structure)")
 
 plt.show()
